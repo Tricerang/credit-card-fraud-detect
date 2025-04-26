@@ -6,8 +6,8 @@ Do dung lượng file dữ liệu `dataset.csv` (khoảng 334 MB) và file mô h
 
 Thay vào đó, em đã tải các file này lên Google Drive và cung cấp đường link tải về bên dưới để thuận tiện cho Thầy/Cô xem và kiểm tra:
 
-- **Dataset:** [Link tải dataset.csv](https://drive.google.com/your-dataset-link)
-- **Mô hình đã huấn luyện:** [Link tải fraud_detection_model.jb](https://drive.google.com/your-model-link)
+- **Dataset:** [Link tải dataset.csv](https://drive.google.com/drive/folders/1Tcjp_En395e287KryMRSIXbW5B5iXWnG?usp=sharing)
+- **Mô hình đã huấn luyện:** [Link tải fraud_detection_model.jb](https://drive.google.com/drive/folders/1Tcjp_En395e287KryMRSIXbW5B5iXWnG?usp=sharing)
 
 Em xin cảm ơn Thầy/Cô đã quan tâm và hỗ trợ.
 
